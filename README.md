@@ -8,7 +8,11 @@ List of AI projects:
      Programming language: Python\
      Tools: Google Calendar API\
      LLM: Ollama\
-     UI: Gradio
+     UI: Gradio\
+     IMPORTANT!\
+     [Please setup Google Calendar API beforehand to run the code or it will throw an error]\
+     [Follow the instructions in the link below:]\
+     [https://developers.google.com/workspace/calendar/api/quickstart/python]
 
 2) SQL Assistant
    - An Agentic AI app which generates SQL queries according to the user's instructions based on a predefined SQL database
