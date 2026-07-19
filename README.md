@@ -9,10 +9,10 @@ List of AI projects:
      Tools: Google Calendar API\
      LLM: Ollama\
      UI: Gradio\
-     > [!IMPORTANT]\
-     *Please setup Google Calendar API beforehand to run the code or it will throw an error*\
-     *Follow the instructions in the link below:*\
-     *https://developers.google.com/workspace/calendar/api/quickstart/python*
+     > **[!IMPORTANT]**\
+     _**Please setup Google Calendar API beforehand to run the code or it will throw an error**_\
+     _**Follow the instructions in the link below:**_\
+     _**https://developers.google.com/workspace/calendar/api/quickstart/python**_
 
 2) **SQL Assistant**
    - An Agentic AI app which generates SQL queries according to the user's instructions based on a predefined SQL database
