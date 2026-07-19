@@ -8,7 +8,7 @@ List of AI projects:
      Programming language: Python\
      Tools: Google Calendar API\
      LLM: Ollama\
-     UI: Gradio\
+     UI: Gradio
 
 2) SQL Assistant
    - An Agentic AI app which generates SQL queries according to the user's instructions based on a predefined SQL database
@@ -17,7 +17,7 @@ List of AI projects:
      Programming language: Python\
      Frameworks: LangChain, LangGraph\
      LLM: Ollama\
-     UI: Gradio\
+     UI: Gradio
 
 3) Code Generating Assistant
    - An Agentic AI app which generates Python code according to the user's instructions. It revises and improves it's own
@@ -27,7 +27,7 @@ List of AI projects:
      Frameworks: LangChain, LangGraph\
      Tools: Tavily API\
      LLM: Ollama\
-     UI: Gradio\
+     UI: Gradio
 
 4) Math Assistant
    - An Agentic AI app which solve the user's math problems. It searches the web if it does not know how to solve a problem.\
@@ -36,7 +36,7 @@ List of AI projects:
      Frameworks: LangChain\
      Tools: Tavily API\
      LLM: Ollama\
-     UI: Gradio\
+     UI: Gradio
 
 5) RAG Chatbot
    - A Chatbot which is able to search the web to answer the user's questions.\
@@ -45,7 +45,7 @@ List of AI projects:
      Frameworks: LangChain\
      Tools: Tavily API\
      LLM: Ollama\
-     UI: Gradio\
+     UI: Gradio
 
 6) Research Assistant
    - An Agentic AI app which writes a research report according to the user's topic. It is able to search the web or connect
@@ -56,7 +56,7 @@ List of AI projects:
      Frameworks: LangChain, LangGraph\
      Tools: Tavily API, ArXiv API\
      LLM: Ollama\
-     UI: Gradio\
+     UI: Gradio
 
 7) Self-Learning Tic-Tac-Toe
    - A Tic-Tac-Toe game which the opponent bot is able to learn from it's mistakes in the previous games and improves it's
