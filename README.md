@@ -1,7 +1,7 @@
 # AI Projects
 List of AI projects:
 
-1) Calendar Booking Assistant\
+1) Calendar Booking Assistant
    - An Agentic AI app which books appointments according to the user's instructions. It access the calendar by connecting
      through the Google Calendar API.\
      Tech stack used:\
@@ -9,8 +9,8 @@ List of AI projects:
      Tools: Google Calendar API\
      LLM: Ollama\
      UI: Gradio\
-\
-2) SQL Assistant\
+
+2) SQL Assistant
    - An Agentic AI app which generates SQL queries according to the user's instructions based on a predefined SQL database
      schema. It revises and improves it's own query before generating a response to the user.\
      Tech stack used:\
@@ -18,8 +18,8 @@ List of AI projects:
      Frameworks: LangChain, LangGraph\
      LLM: Ollama\
      UI: Gradio\
-\
-3) Code Generating Assistant\
+
+3) Code Generating Assistant
    - An Agentic AI app which generates Python code according to the user's instructions. It revises and improves it's own
      code before generating a response to the user, and is also able to search the web if it does not know the code.\
      Tech stack used:\
@@ -28,8 +28,8 @@ List of AI projects:
      Tools: Tavily API\
      LLM: Ollama\
      UI: Gradio\
-\
-4) Math Assistant\
+
+4) Math Assistant
    - An Agentic AI app which solve the user's math problems. It searches the web if it does not know how to solve a problem.\
      Tech stack used:\
      Programming language: Python\
@@ -37,8 +37,8 @@ List of AI projects:
      Tools: Tavily API\
      LLM: Ollama\
      UI: Gradio\
-\
-5) RAG Chatbot\
+
+5) RAG Chatbot
    - A Chatbot which is able to search the web to answer the user's questions.\
      Tech stack used:\
      Programming language: Python\
@@ -46,8 +46,8 @@ List of AI projects:
      Tools: Tavily API\
      LLM: Ollama\
      UI: Gradio\
-\
-6) Research Assistant\
+
+6) Research Assistant
    - An Agentic AI app which writes a research report according to the user's topic. It is able to search the web or connect
      to the ArXiv API to find relevant information, and also revise and improve it's own research before generating a
      response to the user.\
@@ -57,8 +57,8 @@ List of AI projects:
      Tools: Tavily API, ArXiv API\
      LLM: Ollama\
      UI: Gradio\
-\
-7) Self-Learning Tic-Tac-Toe\
+
+7) Self-Learning Tic-Tac-Toe
    - A Tic-Tac-Toe game which the opponent bot is able to learn from it's mistakes in the previous games and improves it's
      strategy by playing with human players. It starts dumb and easy to beat in the beginning, and gradually becomes smarter
      and harder to beat through the game rounds. It has 2 modes: Playing mode and Training mode. Playing mode is the
