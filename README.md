@@ -10,7 +10,7 @@ List of AI projects:
      LLM: Ollama\
      UI: Gradio\
      > **[!IMPORTANT]**\
-     _**Please setup Google Calendar API beforehand to run the code or it will throw an error**_\
+     _**Please setup Google Calendar API beforehand to run the code or it will throw an error.**_\
      _**Follow the instructions in the link below:**_\
      _**https://developers.google.com/workspace/calendar/api/quickstart/python**_
 
